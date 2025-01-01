@@ -1,12 +1,9 @@
 {
-  "name": "@apex-minis/source",
+  "name": "@capstone/apex",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {
-    "empty": "0.10.1"
-  },
   "devDependencies": {
     "@nx/workspace": "20.3.0",
     "nx": "20.3.0"

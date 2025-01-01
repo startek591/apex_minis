@@ -10,5 +10,6 @@
     ],
     "sharedGlobals": []
   },
-  "nxCloudId": "6775a80e7ba4f635803ced34"
+  "nxCloudId": "6775a80e7ba4f635803ced34",
+  "defaultBase": "main"
 }
