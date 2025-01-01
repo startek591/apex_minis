@@ -4,6 +4,10 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
+  "workspaces": [
+    "apps/**",
+    "libs/**"
+  ],
   "devDependencies": {
     "@nx/workspace": "20.3.0",
     "nx": "20.3.0"
