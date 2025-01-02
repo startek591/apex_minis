@@ -9,7 +9,10 @@
     "libs/**"
   ],
   "devDependencies": {
+    "@nx/jest": "^20.3.0",
     "@nx/workspace": "20.3.0",
+    "jest": "^29.7.0",
     "nx": "20.3.0"
-  }
+  },
+  "dependencies": {}
 }
