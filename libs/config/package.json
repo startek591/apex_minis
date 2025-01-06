@@ -6,6 +6,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@types/capstone-globals": "1.0.0"
+    "@types/capstone-globals": "1.0.0",
+    "@types/jasmine": "^5.1.5"
   }
 }

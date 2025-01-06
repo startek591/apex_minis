@@ -1,11 +1,11 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
-    "outDir": "../../dist/out-tsc",
-    "declaration": true,
-    "declarationMap": true,
-    "inlineSources": true,
-    "types": []
+    "baseUrl": "./src",
+    "target": "ES2022",
+    "module": "ESNext",
+    "types": ["capstone-globals"],
+    "composite": true
   },
   "exclude": [
     "src/**/*.spec.ts",
