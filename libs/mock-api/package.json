@@ -1,0 +1,31 @@
+{
+  "name": "@capstone/mock-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This library was generated with [Nx](https://nx.dev).",
+  "main": "dist",
+  "types:": "dist",
+  "bin": "dist/index.js",
+  "scripts": {
+    "prepare": "tsc --project tsconfig.json",
+    "start": "nodemon --watch src/ src/index.ts -- --delay 500",
+    "lint": "tslint --project tsconfig.json"
+  },
+  "dependencies": {
+    "@capstone/config": "1.0.0",
+    "@koa/cors": "^5.0.0",
+    "@types/koa": "^2.15.0",
+    "@types/koa__cors": "^5.0.0",
+    "@types/koa-router": "^7.4.8",
+    "@types/yargs": "^17.0.33",
+    "koa": "^2.15.3",
+    "koa-body": "^6.0.1",
+    "koa-router": "^13.0.1",
+    "nodemon": "^3.1.9",
+    "selfsigned": "^2.4.1",
+    "ts-node": "^10.9.2",
+    "tslint": "^5.20.1",
+    "typescript": "^5.7.2",
+    "yargs": "^17.7.2"
+  }
+}
