@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@capstone/config": ["libs/config/src/index.ts"]
+      "@capstone/config": ["libs/config/src/index.ts"],
+      "@types/capstone-globals": ["lists/capstone-globals/index.d.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
