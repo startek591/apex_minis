@@ -1,0 +1,23 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "This library was generated with [Nx](https://nx.dev).",
+  "main": "index.js",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json --config tslint.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^19.0.5",
+    "@angular/core": "^19.0.5",
+    "@angular/platform-browser": "^19.0.5",
+    "@angular/router": "^19.0.5",
+    "@types/jwt-decode": "^2.2.1",
+    "lodash": "^4.17.21",
+    "rxjs": "^7.8.1",
+    "tslint": "^5.20.1",
+    "zone.js": "^0.15.0"
+  }
+}

@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@capstone/config": ["libs/config/src/index.ts"],
+      "@capstone/login": ["libs/login/src/index.ts"],
       "@capstone/mock-api": ["libs/mock-api/src/index.ts"],
       "@types/capstone-globals": ["lists/capstone-globals/index.d.ts"]
     }
