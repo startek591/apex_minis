@@ -1,0 +1,12 @@
+{
+  "extends": ["tslint:recommended", "tslint-angular", "tslint-config-prettier"],
+  "rules": {
+    "component-selector": [true, "element", "app", "kebab-case"],
+    "directive-selector": [true, "attribute", "app", "camelCase"],
+    "interface-name": [true, "never-prefix"],
+    "member-access": [true, "check-accessor", "check-parameter-property"],
+    "no-console": false,
+    "no-duplicate-imports": true,
+    "no-use-before-declare": false
+  }
+}
