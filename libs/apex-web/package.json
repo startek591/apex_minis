@@ -1,0 +1,17 @@
+{
+  "name": "@capstone/apex-web",
+  "version": "1.0.0",
+  "description": "This library was generated with [Nx](https://nx.dev).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capstone/config": "1.0.0",
+    "@capstone/mock-api": "1.0.0",
+    "@capstone/utils": "1.0.0"
+  }
+}
