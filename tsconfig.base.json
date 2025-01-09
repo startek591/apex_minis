@@ -17,6 +17,7 @@
     "paths": {
       "@capstone/apex-web": ["libs/apex-web/src/index.ts"],
       "@capstone/config": ["libs/config/src/index.ts"],
+      "@capstone/core": ["libs/core/src/index.ts"],
       "@capstone/login": ["libs/login/src/index.ts"],
       "@capstone/mock-api": ["libs/mock-api/src/index.ts"],
       "@capstone/utils": ["libs/utils/src/index.ts"],
