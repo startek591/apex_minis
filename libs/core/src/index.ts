@@ -1,1 +1,1 @@
-export * from './lib/core/core.component';
+export { CoreModule } from './lib/core/core.module';
